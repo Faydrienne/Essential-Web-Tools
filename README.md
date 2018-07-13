@@ -6,3 +6,5 @@ for DWC class: Essential Web Tools
 - third commit
 - fourth commit
 - added index.html files
+- added bootstrap to index.html files
+- lost css?
